@@ -4,6 +4,7 @@ It is a frontend part of the Resume Maker Website. This website include some ess
 TITLE: 
 Resume Maker
 
+
 Division:
 1. PERSONAL INFORMATION
    Sections
@@ -14,6 +15,7 @@ Division:
    LinkedIn 
    Github
    Leetcode
+
    
 3. PROFESSIONAL INFORMATION
  a.Your Qulification
