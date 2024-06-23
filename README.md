@@ -4,6 +4,9 @@ It is a frontend part of the Resume Maker Website. This website include some ess
 TITLE: 
 Resume Maker
 
+LIVE DEMO
+http://192.168.71.246:5500/resume/index.html
+
 Division:
 
 1. PERSONAL INFORMATION
