@@ -5,7 +5,7 @@ TITLE:
 Resume Maker
 
 LIVE DEMO
-http://192.168.71.246:5500/resume/index.html
+http://192.168.43.242:5500/resume/index.html
 
 Division:
 
