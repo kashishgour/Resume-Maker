@@ -1,48 +1,14 @@
-/* Basic reset and global styles */
-body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f0f0f0;
-    padding-top: 20px;
+#cv-template{
+    display:none;
 }
 
-/* Container for the form */
-#cv-form {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-
-/* Centered header styles */
-.text-center {
-    text-align: center;
-}
-
-/* Form group spacing and alignment */
-.form-group {
-    margin-bottom: 20px;
-}
-
-/* Profile image styling */
 .myimg {
-    border-radius: 50%;
-    width: 200px;
-    height: auto; /* Ensure the image stays within a circular frame */
-}
+border-radius:50%;
+width:200px;
 
-/* Generate Resume button styling */
-.btn-lg {
-    padding: 10px 30px;
-    font-size: 1.2rem;
 }
+.background{
+  
 
-/* Link style for important links */
-.text-secondary a {
-    color: #007bff; /* Bootstrap primary color */
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.text-secondary a:hover {
-    text-decoration: underline;
+    background-color:aqua;
 }
