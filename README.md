@@ -1,5 +1,5 @@
 # Resume-Maker
-It is a frontend part of the Resume Maker Website. This website include some essential section and components that is commonly used when making a professional Resume or cv. 
+It is a frontend and Backend part of the Resume Maker Website. This website include some essential section and components that is commonly used when making a professional Resume or cv. 
 
 TITLE: 
 Resume Maker
@@ -43,6 +43,14 @@ Division:
        Javascript
 
        Bootstrap ( Follow the bootsrtap concept through the link https://getbootstrap.com/)
+
+    BUTTON FUNCTIONALITY:
+
+       1. Add ( This is created to add new fields as per the requirements.)
+  
+       2. Genrate Resume ( This is to create Resume.this button direct to the next page of the site.)
+  
+       3. Print Resume  ( This print the entire Window.)
    
 
 
