@@ -5,7 +5,7 @@ TITLE:
 Resume Maker
 
 LIVE DEMO
-http://192.168.43.242:5500/resume/index.html
+https://kashishgour.github.io/Resume-Maker/
 
 Division:
 
